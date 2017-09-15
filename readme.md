@@ -1,8 +1,6 @@
 <h1 align="center">
     <br />
-    <img width="360" src="https://rawgit.com/bntzio/garyquotes/master/media/logo.jpeg" alt="GaryQuotes" />
-    <br />
-    <br />
+    <img width="100%" src="https://rawgit.com/bntzio/garyquotes/master/media/banner.png" alt="GaryQuotes" />
     <br />
 </h1>
 
@@ -14,28 +12,28 @@ Feel free to [submit a wallpaper!](https://github.com/bntzio/garyquotes#collabor
 
 ## Wallpapers
 <p align="center">
-    <img width="200" src="https://rawgit.com/bntzio/garyquotes/master/wallpapers/legacy/the-game.jpg" alt="The game is my drug" />
+    <img width="360" src="https://rawgit.com/bntzio/garyquotes/master/wallpapers/legacy/the-game.jpg" alt="The game is my drug" />
 </p>
 <p align="center">
-    <img width="200" src="https://rawgit.com/bntzio/garyquotes/master/wallpapers/legacy/if-you-have-a-full.jpg" alt="Full time job" />
+    <img width="360" src="https://rawgit.com/bntzio/garyquotes/master/wallpapers/legacy/if-you-have-a-full.jpg" alt="Full time job" />
 </p>
 <p align="center">
-    <img width="200" src="https://rawgit.com/bntzio/garyquotes/master/wallpapers/legacy/you-are-one-hundred.jpg" alt="You are in charge of your life" />
+    <img width="360" src="https://rawgit.com/bntzio/garyquotes/master/wallpapers/legacy/you-are-one-hundred.jpg" alt="You are in charge of your life" />
 </p>
 <p align="center">
-    <img width="200" src="https://rawgit.com/bntzio/garyquotes/master/wallpapers/legacy/no-matter-what.jpg" alt="No matter what you do your job is to tell your story" />
+    <img width="360" src="https://rawgit.com/bntzio/garyquotes/master/wallpapers/legacy/no-matter-what.jpg" alt="No matter what you do your job is to tell your story" />
 </p>
 <p align="center">
-    <img width="200" src="https://rawgit.com/bntzio/garyquotes/master/wallpapers/legacy/practitioner.jpg" alt="Practitioner to the bone" />
+    <img width="360" src="https://rawgit.com/bntzio/garyquotes/master/wallpapers/legacy/practitioner.jpg" alt="Practitioner to the bone" />
 </p>
 <p align="center">
-    <img width="200" src="https://rawgit.com/bntzio/garyquotes/master/wallpapers/legacy/skills-are-cheap.jpg" alt="Skills are cheap passion is priceless" />
+    <img width="360" src="https://rawgit.com/bntzio/garyquotes/master/wallpapers/legacy/skills-are-cheap.jpg" alt="Skills are cheap passion is priceless" />
 </p>
 
 Plus [many more!](https://github.com/bntzio/garyquotes/tree/master/wallpapers) 😎
 
 ## Motivation
-I'm a big fan of [Gary Vaynerchuk](https://garyvaynerchuk.com) and so one day I decided to design some cool wallpapers for my iPhone with inspirational quotes that will remind me to hustle every time I stare at my phone 📱
+I'm a big fan of [Gary Vaynerchuk](https://garyvaynerchuk.com) and so one day I decided to design some cool wallpapers for my iPhone with inspirational quotes that will remind me to [hustle](https://www.youtube.com/watch?v=PIJElPStJpg) every time I stare at my phone 📱👀
 
 Now that's poweful! 👊
 
